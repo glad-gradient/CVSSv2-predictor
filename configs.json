@@ -1,0 +1,4 @@
+{
+  "DATA_DIRECTORY": "The path to data directory",
+  "COMPANY_FILE": ".../list_of_companies.xlsx"
+}
